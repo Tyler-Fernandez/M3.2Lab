@@ -27,3 +27,6 @@ To run the tests for the project, run the following command:
 ```bash
 npm test
 ```
+
+Once the website is ran, it will take the user to a letter application to a university.
+The website has links to other websites and formatted text.
